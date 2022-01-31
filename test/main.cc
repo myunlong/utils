@@ -2,6 +2,8 @@
 
 int main()
 {
-    print("hello world");
+	//do something
+	//do something2
+    print("hello world");//print hello world
     return 0;
 }
